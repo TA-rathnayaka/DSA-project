@@ -1,0 +1,3 @@
+/Users/crysis/Documents/C++Projects/FileManagementSystem/cmake-build-debug/CMakeFiles/FileManagementSystem.dir
+/Users/crysis/Documents/C++Projects/FileManagementSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/crysis/Documents/C++Projects/FileManagementSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
